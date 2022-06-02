@@ -1,0 +1,13 @@
+.Player {
+  color: rgb(226, 237, 230);
+    font-family: sans-serif;
+    text-align: center;
+    align-content: center;
+  }
+  .details-img{
+    width: 30px;
+    align-content: center;
+  }
+  img{
+    width: 450px;
+  }
